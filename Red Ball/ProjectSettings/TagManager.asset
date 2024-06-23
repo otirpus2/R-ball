@@ -41,3 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Sun
+    uniqueID: 656674979
+    locked: 0
+  - name: background
+    uniqueID: 1918900041
+    locked: 0
+  - name: ground
+    uniqueID: 4059332157
+    locked: 0
+  - name: player
+    uniqueID: 1655129089
+    locked: 0
